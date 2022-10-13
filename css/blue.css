@@ -1,0 +1,59 @@
+body{
+    background: url('../img/cielo.jpg');
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo{
+    background-color: #1f87c4;   
+}
+
+#menu ul li:hover{
+    background-color: #1f87c4;
+}
+
+
+.button-more{   
+    background-color: #1f87c4;   
+}
+
+.button-more:hover{
+    background-color: #5dc4ff;
+}
+
+.post{
+    border: 1px solid #1f87c4;
+    
+}
+
+#clock{
+    color: #1f87c4;   
+}
+
+.ui-accordion .ui-accordion-header
+{
+    background-color: #5dc4ff;
+    border: 2px solid #1f87c4;
+}
+
+.ui-accordion .ui-accordion-header-active
+{
+    background-color: #1f87c4;
+    border: 2px solid #5dc4ff;
+}
+
+.ui-accordion .ui-accordion-header:hover
+{
+    background-color: #1f87c4;
+    font-style: italic;
+    color: white;
+}
+
+form input[type="submit"]{
+    background-color: #1f87c4;
+    color: white;
+}
+
+form input[type="submit"]:hover{
+    background-color: #5dc4ff;    
+}

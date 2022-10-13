@@ -1,0 +1,58 @@
+
+body{
+    background: url('../img/hojas.jpg');
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo{
+    background-color: #235e3d;   
+}
+
+#menu ul li:hover{
+    background-color: #235e3d;
+}
+
+
+.button-more{   
+    background-color: #235e3d;   
+}
+
+.button-more:hover{
+    background-color: #3e9965;
+}
+
+.post{
+    border: 1px solid #3e9965;
+    
+}
+
+#clock{
+    color: #235e3d;   
+}
+
+.ui-accordion .ui-accordion-header
+{
+    background-color: #3e9965;
+    border: 2px solid #235e3d;
+}
+
+.ui-accordion .ui-accordion-header-active
+{
+    background-color: #235e3d;
+    border: 2px solid #3e9965;
+}
+.ui-accordion .ui-accordion-header:hover
+{
+    background-color: #235e3d;
+    font-style: italic;
+}
+
+form input[type="submit"]{
+    background-color: #235e3d ;
+    color: white;
+}
+
+form input[type="submit"]:hover{
+    background-color: #3e9965;    
+}

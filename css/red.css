@@ -1,0 +1,59 @@
+body{
+    background: url('../img/rojo.jpg');
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo{
+    background-color: #ca3413;   
+}
+
+#menu ul li:hover{
+    background-color: #ca3413;
+}
+
+
+.button-more{   
+    background-color: #ca3413;   
+}
+
+.button-more:hover{
+    background-color: #ff886d;
+}
+
+.post{
+    border: 1px solid #ca3413;
+    
+}
+
+#clock{
+    color: #ca3413;   
+}
+
+.ui-accordion .ui-accordion-header
+{
+    background-color: #eb6445;
+    border: 2px solid #ca3413;
+}
+
+.ui-accordion .ui-accordion-header-active
+{
+    background-color: #ca3413;
+    border: 2px solid #eb6445;
+}
+
+.ui-accordion .ui-accordion-header:hover
+{
+    background-color: #ca3413;
+    font-style: italic;
+    color: white;
+}
+
+form input[type="submit"]{
+    background-color: #ca3413;
+    color: white;
+}
+
+form input[type="submit"]:hover{
+    background-color: #eb6445;    
+}
